@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(223, 243, 190);
+}
+
+
+img{
+
+   
+    border-radius: 150px;
+    border: solid 5px chocolate;
+    
+    
+}
+
+#listehaut ul{
+    display: inline-block;
+    margin: 10px;
+    list-style: none;
+    
+}
+#listehaut a:hover{
+    color: rgb(15, 126, 49);
+    font-style: italic;
+    text-decoration: underline;
+}
+#listehaut a{
+   text-decoration: none;
+   font-size: 1em;
+    
+}
+
+h2{
+    border: solid 2px chocolate;
+    background-color: blueviolet;
+    color: aquamarine;
+    width: 250px;
+}
+ h3{
+    border: solid 2px chocolate;
+    width: 150px;
+    color: blue;
+    border-radius: 5px;
+ }
+
+
+
+
